@@ -3,7 +3,7 @@
     <h1>Welcome to Links!</h1>
   </head>
   <body>
-    <h3>Gaming Links</h3>
+    <h3>Gaming</h3>
     https://sites.google.com/site/gamingnetworklwp <br>
     http://kizi.com <br>
     http://www.gamesgames.com <br>

@@ -9,5 +9,3 @@
     <a href="http://www.gamesgames.com/">
     <a href="http://www.coolmath-games.com/">
     <a href="http://www.addictinggames.com/">
-  </body>
-</html>
